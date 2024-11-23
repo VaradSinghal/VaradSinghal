@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python,C**
 
-- 📫 How to reach me **singhalvarad1526@gmail.com**
+- 📫 How to reach me **codewithvxrd@gmail.com**
 
 - ⚡ Fun fact **I play a lot of video games**
 
