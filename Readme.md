@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-varad.vercel.app/](https://portfolio-varad.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-varad.vercel.app/](https://portfolio-ten-lake-24.vercel.app/)
 
 - 💬 Ask me about **Python, Flutter**
 
