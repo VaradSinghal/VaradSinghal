@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varad Singhal</h1>
-<h3 align="center">A passionate flutter developer, IoT expertise and python developer</h3>
+<h3 align="center">A passionate flutter developer, IoT expertise and Backend developer</h3>
 
 - 🌱 I’m currently learning **Backend**
 
