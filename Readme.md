@@ -12,7 +12,7 @@ Hey, I'm Varad Singhal — a software developer who enjoys building clean, scala
 ![](https://streak-stats.demolab.com/?user=VaradSinghal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaradSinghal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaradSinghal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+#  LeetCode Stats:
+![](https://leetcard.jacoblin.cool/A3keHyCIxZ?theme=dark&font=baloo&ext=heatmap)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
